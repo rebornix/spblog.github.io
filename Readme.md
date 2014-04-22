@@ -1,0 +1,3 @@
+This a single page blog system powered by AngularJS, leveraging github as content storage.
+
+If you want to deploy this application, fork it, edit /app/controllers/BlogController.js, change '$scope.blogContentAddress' to yours. Here we go...
