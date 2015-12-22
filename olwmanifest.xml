@@ -1,0 +1,14 @@
+<manifest>
+<weblog>
+  <categories>
+  {% for category in site.categories %}
+    <category>{{category[0] }}</category>
+  {% endfor %}
+  </categories>
+  <tags>
+  {% for tag in site.tags %}
+    <tag>{{ tag[0] }}</tag> 
+  {% endfor %}
+  </tags>
+</weblog>
+</manifest>
