@@ -2,7 +2,9 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-12-16 10:25:02 +0800
-categories: jekyll update
+categories: 
+  -jekyll
+  - update
 tags:
   - jekyll
   - test
